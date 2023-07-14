@@ -1,0 +1,8 @@
+C:\Users\91849\OneDrive\Desktop\mphasis\day5\d5p1\d5p1\bin\Debug\d5p1.exe.config
+C:\Users\91849\OneDrive\Desktop\mphasis\day5\d5p1\d5p1\bin\Debug\d5p1.exe
+C:\Users\91849\OneDrive\Desktop\mphasis\day5\d5p1\d5p1\bin\Debug\d5p1.pdb
+C:\Users\91849\OneDrive\Desktop\mphasis\day5\d5p1\d5p1\obj\Debug\d5p1.csproj.AssemblyReference.cache
+C:\Users\91849\OneDrive\Desktop\mphasis\day5\d5p1\d5p1\obj\Debug\d5p1.csproj.SuggestedBindingRedirects.cache
+C:\Users\91849\OneDrive\Desktop\mphasis\day5\d5p1\d5p1\obj\Debug\d5p1.csproj.CoreCompileInputs.cache
+C:\Users\91849\OneDrive\Desktop\mphasis\day5\d5p1\d5p1\obj\Debug\d5p1.exe
+C:\Users\91849\OneDrive\Desktop\mphasis\day5\d5p1\d5p1\obj\Debug\d5p1.pdb
